@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://startup.te-st.ru/sitemap.xml
